@@ -15,12 +15,6 @@ This project is an educational tool designed to demonstrate the use of Convoluti
 Leukemia Cancer Detection is a project that uses a CNN model trained on images of cancerous and normal cells. The model can classify uploaded images to determine if they show signs of leukemia. This project is for educational purposes only and should not be used for medical diagnosis.
 
 ## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-github-username/leukemia-cancer-detection.git
-    cd leukemia-cancer-detection
-    ```
-
 2. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
